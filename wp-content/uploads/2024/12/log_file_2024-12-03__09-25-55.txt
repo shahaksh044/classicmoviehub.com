@@ -1,0 +1,94 @@
+
+---Downloaded files---
+The import files for: morenews-pro were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/cmhmovie
+Data file = C:\xampp\htdocs\cmhmovie/wp-content/uploads/2024/12/demo-content-import-file_2024-12-03__09-25-55.xml
+Widget file = C:\xampp\htdocs\cmhmovie/wp-content/uploads/2024/12/demo-widgets-import-file_2024-12-03__09-25-55.json
+Customizer file = C:\xampp\htdocs\cmhmovie/wp-content/uploads/2024/12/demo-customizer-import-file_2024-12-03__09-25-55.dat
+
+------
+Completed AJAX call number: 1
+[WARNING] Failed to import "Form": Invalid post type mc4wp-form
+
+
+---Importing content---
+[WARNING] Failed to import "Form": Invalid post type mc4wp-form
+[WARNING] Could not find the post parent for "flower-military-pattern-soldier-army-red-672477-pxhere.com" (post #432)
+[WARNING] Could not find the menu object for "" (post #51)
+[WARNING] Could not find the menu object for "" (post #133)
+[WARNING] Could not find the menu object for "" (post #525)
+[WARNING] Could not find the menu object for "" (post #829)
+[WARNING] Could not find the menu object for "" (post #830)
+[WARNING] Could not find the menu object for "Content and Sidebar" (post #840)
+[WARNING] Could not find the menu object for "Content Only" (post #881)
+[WARNING] Could not find the menu object for "Sidebar and Content" (post #882)
+
+Max execution time after content import = 300
+
+---Importing widgets---
+Main Sidebar : 
+
+Search - No Title - Imported
+AFTMN Popular News - No Title - Imported
+Tag Cloud - No Title - Imported
+AFTMN Social Contacts - No Title - Imported
+Categories - No Title - Imported
+Block - No Title - Imported
+AFTMN Trending News (By View) - No Title - Imported
+
+Front-page Content Section : 
+
+AFTMN Express Posts Grid - No Title - Imported
+Block - No Title - Imported
+AFTMN Express Posts List - No Title - Imported
+AFTMN Popular News - No Title - Imported
+AFTMN Post Double Columns - No Title - Imported
+AFTMN Posts Slider - No Title - Imported
+AFTMN Post Grid - No Title - Imported
+AFTMN Post List - No Title - Imported
+AFTMN Posts Carousel - No Title - Imported
+Block - No Title - Imported
+AFTMN Post Single Column - No Title - Imported
+
+Front-page Sidebar Section : 
+
+AFTMN Author Info - No Title - Imported
+AFTMN Trending News - No Title - Imported
+AFTMN Social Contacts - No Title - Imported
+Block - No Title - Imported
+AFTMN Posts Tabs - No Title - Imported
+
+Below Main Banner Section : 
+
+Block - No Title - Imported
+
+Footer First Section : 
+
+Recent Posts - No Title - Imported
+
+Footer Second Section : 
+
+Tag Cloud - No Title - Imported
+Tag Cloud - No Title - Imported
+
+Footer Third Section : 
+
+Meta - No Title - Imported
+
+Below Posts Title Ad Section : 
+
+Block - No Title - Imported
+
+Below Posts Content Ad Section : 
+
+Block - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---templatespare/after_import---
+

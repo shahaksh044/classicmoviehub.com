@@ -1,0 +1,122 @@
+### 3.2.0 - Nov 26 2024
+* New - Theme Tone Selection (Useful for Child theme to Pro theme uses)
+* Option - Apperance > Theme Options > Site Layout Mode > Theme Tone
+* New - Content image display options
+* New - Lazy load image display options
+* New - Async load image display options
+* Option - Apperance > Global Settings
+* Update - Block Style improvement
+* Fixed - Some styling glitch
+
+### 3.1.0 - Nov 21 2024
+* Update - WP 6.7 Compatibility
+* Update - Post Navigation Improvements
+* Update - Block Style improvement
+* Fixed - Some styling glitch
+
+### 3.0.0 - Sep 18 2024
+* New - Blank Canvas Template for Page Builder
+* New - Full Width Template for Page Builder
+* Update - Theme Banners improvements
+* Update - Theme Menus improvements
+* Update - Block Style improvement
+* Fixed - Some styling glitch
+
+### 2.9.0 - Sep 11 2024
+* Update - Theme Banners improvements
+* Update - Theme Menus improvements
+* Update - Block Style improvement
+* Fixed - Some styling glitch
+
+### 2.8.1 - Aug 12 2024
+* Update - Icons improvements
+* Update - Block Style improvement
+* Fixed - Some styling glitch
+
+### 2.8.0 - July 25 2024
+* Update - WP 6.6 compatibility
+* Update - Icons improvements
+* Update - Block Style improvement
+* Fixed - Some styling glitch
+
+### 2.7.3 - April 03 2024
+* Update - WP 6.5 compatibility
+* Update - Icons improvements
+* Update - Block Style improvement
+* Fixed - Some styling glitch
+
+### 2.7.2 - Mar 20 2024
+* New - Option to display homepage content to Frontpage
+* Option - Customize> Frontpage Options> Frontpage Layout Settings > Frontpage Content Display
+* Update - Icon improvement
+* Update - Block Style improvement
+* Update - Gaps improvement
+* Update - General design improvement
+
+### 2.7.1 - Feb 27 2024
+* Update - Block support for Appearnce Tools
+* Update - Block support for Padding
+* Update - Block support for Link Color
+* Update - Block support for Custom Units
+* Update - Block support for Custom Line Height
+* Update - Block support for Border
+* Fixed - Some styling glitch
+
+### 2.7.0 - Sep 27 2023
+* Update - New Google fonts added
+* Update - Freemius SDK improvement
+* Update - Block Style improvement
+* Update - Gaps improvement
+* Update - General design improvement
+
+### 2.6.2 - Jul 05 2023
+* Update - Freemius SDK security improvement
+* Update - Block Style improvement
+* Update - General design improvement
+
+### 2.6.1 - May 23 2023
+* Update - WP 6.2 Compatibility 
+* Update - Block Style improvement
+* Update - General design improvement
+
+### 2.6.0 - Mar 27 2023
+* Update - Block Style improvement
+* Update - Gaps improvement
+* Update - General design improvement
+
+### 2.5.0 - Sept 13 2022
+* Update - RTL style improvement
+* Update - Multi-author support
+* Update - Imroved some styling
+
+### 2.0.0 - July 14 2022
+* Update: New theme dashboard with esential links
+* Update: Jetpack share improvements
+* Update: Fixed some design glitch
+
+
+### 1.2.1 - March 20 2022 
+* Update: Full width page gaps improvements
+* Update: Fixed some design glitch
+
+### 1.2.0 - March 09 2022 
+* Update: Elementor column gaps
+* Update: Banner bar color according to category selection
+* Update: Widget tabs color according to category selection
+* Update: Fixed some design glitch
+
+### 1.1.2 - Feb 25 2022 
+* Update: Security fix 
+* Update: WP 5.9 Compatibility 
+
+
+### 1.1.1 - Sep 16 2021 
+* Update: Elespare Compatibility
+* Update: Fixed some design glitch
+
+### 1.1.0 - Sep 16 2021 
+* Update: Elementor Compatibility
+* Update: Freemius Integrated
+
+### 1.0.0 - Oct 01 2019 
+* initial release

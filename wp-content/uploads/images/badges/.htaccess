@@ -1,0 +1,17 @@
+
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# This domain inherits the “PHP” package.
+# php -- END cPanel-generated handler, do not edit
+
+<Files 403.shtml>
+order allow,deny
+allow from all
+</Files>
+
+deny from 185.151.30.137
+deny from 185.151.29.128
+deny from 185.151.30.0
+deny from 185.151.30.128
+deny from 185.151.30.136
+deny from 185.151.28.0

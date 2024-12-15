@@ -1,0 +1,6 @@
+Options -Indexes
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^assets\.classicmoviehub\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.assets\.classicmoviehub\.com$
+RewriteRule ^/?$ "http\:\/\/www\.classicmoviehub\.com\/images\/" [R=301,L]

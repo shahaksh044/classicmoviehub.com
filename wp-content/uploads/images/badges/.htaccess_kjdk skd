@@ -1,0 +1,5 @@
+RewriteEngine on
+#%{ENV:REQUEST_URI}
+RewriteRule ^([^/\.]+)/?$ index.php?img_id=$1&ref=lol%{ENV:ORIG_PATH_INFO} [NE,L]
+
+RewriteRule ^([^/\.]+)?$ index.php?img_id=$1 [L]
